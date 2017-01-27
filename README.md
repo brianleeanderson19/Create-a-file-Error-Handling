@@ -1,1 +1,1 @@
-# Create-a-file-Error-Handling
+What's up team? This is an assignment about Creating Files and Handling Errors in Ruby!
